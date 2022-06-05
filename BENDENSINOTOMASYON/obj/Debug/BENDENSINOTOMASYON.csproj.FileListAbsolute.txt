@@ -1,0 +1,281 @@
+C:\Users\ilayd\OneDrive\Masaüstü\RESTAURANT OTOMASYON\BENDENSINOTOMASYON\bin\Debug\BENDENSINOTOMASYON.exe.config
+C:\Users\ilayd\OneDrive\Masaüstü\RESTAURANT OTOMASYON\BENDENSINOTOMASYON\bin\Debug\BENDENSINOTOMASYON.exe
+C:\Users\ilayd\OneDrive\Masaüstü\RESTAURANT OTOMASYON\BENDENSINOTOMASYON\bin\Debug\BENDENSINOTOMASYON.pdb
+C:\Users\ilayd\OneDrive\Masaüstü\RESTAURANT OTOMASYON\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.csproj.AssemblyReference.cache
+C:\Users\ilayd\OneDrive\Masaüstü\RESTAURANT OTOMASYON\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.Properties.Resources.resources
+C:\Users\ilayd\OneDrive\Masaüstü\RESTAURANT OTOMASYON\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.urunekle.resources
+C:\Users\ilayd\OneDrive\Masaüstü\RESTAURANT OTOMASYON\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.urunler.resources
+C:\Users\ilayd\OneDrive\Masaüstü\RESTAURANT OTOMASYON\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.yonetici.resources
+C:\Users\ilayd\OneDrive\Masaüstü\RESTAURANT OTOMASYON\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.csproj.GenerateResource.cache
+C:\Users\ilayd\OneDrive\Masaüstü\RESTAURANT OTOMASYON\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.csproj.CoreCompileInputs.cache
+C:\Users\ilayd\OneDrive\Masaüstü\RESTAURANT OTOMASYON\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.exe
+C:\Users\ilayd\OneDrive\Masaüstü\RESTAURANT OTOMASYON\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.pdb
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\BENDENSINOTOMASYON.exe.config
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\BENDENSINOTOMASYON.exe
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\BENDENSINOTOMASYON.pdb
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.Properties.Resources.resources
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.urunekle.resources
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.urunler.resources
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.exe
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.pdb
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.Form1.resources
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.csproj.CopyComplete
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.exe.licenses
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.kategori.resources
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.admin.resources
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.Charts.WinForms.dll
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\bin\Debug\Bunifu.Charts.WinForms.xml
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.masakontrol.resources
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.odeme.resources
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\BENDENSINOTOMASYON.exe.config
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\BENDENSINOTOMASYON.exe
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\BENDENSINOTOMASYON.pdb
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.Charts.WinForms.dll
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.Charts.WinForms.xml
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.admin.resources
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.Form1.resources
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.kategori.resources
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.masakontrol.resources
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.odeme.resources
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.Properties.Resources.resources
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.urunekle.resources
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.urunler.resources
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.exe.licenses
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.csproj.CopyComplete
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.exe
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.pdb
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.Menuurunler.resources
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.Menuurunler.resources
+C:\Users\Administrator\Desktop\repos\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.dbYedekleme.resources
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.dbYedekleme.resources
+C:\Users\Administrator\Desktop\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.kategoriduzenle.resources
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\BENDENSINOTOMASYON.exe.config
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\BENDENSINOTOMASYON.exe
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\BENDENSINOTOMASYON.pdb
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.Charts.WinForms.dll
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.Licensing.dll
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuButton.dll
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.dll
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.dll
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.dll
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.dll
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.dll
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.dll
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.dll
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.dll
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.dll
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.dll
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.dll
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.dll
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuPages.dll
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.dll
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.dll
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.dll
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.dll
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuRating.dll
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.dll
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.dll
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.dll
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.dll
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.dll
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.dll
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.dll
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.dll
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.dll
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.dll
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.Deprecated.dll
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.Charts.WinForms.xml
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuButton.xml
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuCheckBox.xml
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuCircleProgress.xml
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuColorTransition.xml
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuDataGridView.xml
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuDropdown.xml
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuFormDock.xml
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuGauge.xml
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuGradientPanel.xml
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuGroupBox.xml
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuImageButton.xml
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuLabel.xml
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuLoader.xml
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuPages.xml
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuPanel.xml
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuPictureBox.xml
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuProgressBar.xml
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuRadioButton.xml
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuRating.xml
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuScrollBar.xml
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuSeparator.xml
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuShadowPanel.xml
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuShapes.xml
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuSlider.xml
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuSnackbar.xml
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuTextBox.xml
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuToggleSwitch.xml
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.xml
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuTransition.xml
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\bin\Debug\Bunifu.UI.WinForms.BunifuUserControl.xml
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.admin.resources
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.dbYedekleme.resources
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.Form1.resources
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.kategori.resources
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.kategoriduzenle.resources
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.masakontrol.resources
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.Menuurunler.resources
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.odeme.resources
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.Properties.Resources.resources
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.urunekle.resources
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.urunler.resources
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.exe.licenses
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.csproj.CopyComplete
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.exe
+C:\Users\Administrator\Desktop\repos\Yeni klasör\BENDENSINOTOMASYON\obj\Debug\BENDENSINOTOMASYON.pdb
